@@ -1,0 +1,23 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.feature.adam-id",VALUE="1055157802"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="Pokemon: Lucario y el Misterio de Mew (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is5-ssl.mzstatic.com/image/thumb/Video2/v4/49/7f/b7/497fb7c7-84d5-063f-95c5-fd4cce18ce72/POKEMON_MYSTERY_MEW_ES.jpg/{w}x{h}mw.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Para toda la familia",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2006-09-19T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Se cuenta que hace ya muchos años, Sir Aaron, también conocido como el Guardián del Aura, usó el poder del Árbol de los Comienzos para detener una gran batalla. La leyenda dice que el noble sacrificio de Sir Aaron salvó a la gente del Palacio Cameran y de los alrededores del reino. Ahora, el reino se reúne cada año para celebrar un festival en honor a este héroe, ¡y Ash y sus amigos Brock, Aura y Max han llegado justo a tiempo para participar en él! Con la ayuda de Pikachu, Ash gana la competición del combate Pokémon, convirtiéndose en el honorario Guardián del Aura de este año y recibiendo el Bastón de Mando del Guardián para celebrar la ocasión. Sin embargo, justo cuando todos están listos para celebrar la gran victoria de Ash y Pikachu, ¡aparece el singular Pokémon Mew y se lleva a Pikachu! Y eso es solo el principio: el bastón ceremonial ha despertado al Pokémon Aura Lucario, el compañero de Sir Aaron de hace mucho tiempo, ¡que lo recuerda no como a un héroe, sino como al maestro que lo abandonó! ¿Dónde está Pikachu, y por qué se lo ha llevado Mew? ¿Por qué se ha despertado Lucario? ¿Qué hay de verdad tras la leyenda de Sir Aaron? Con la ayuda de Lucario, ¡Ash está a punto de descubrir las respuestas a estas preguntas y mucho más!",LANGUAGE="es-es"
+
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160_vod-ak-amt.tv.apple.com",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://vod-ak-amt.tv.apple.com/itunes-assets/VideoPreview128/v4/f1/92/57/f19257f6-d7c1-c95d-0196-32d01f9708ec/P48791898_A1055157802_FF.p_es-ES_audio_gr160.m3u8"
+
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6275418,_AVG-BANDWIDTH=6275418,BANDWIDTH=7469256,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160_vod-ak-amt.tv.apple.com",FRAME-RATE=23.976,RESOLUTION=1908x1068,STABLE-VARIANT-ID="e7ff5f2037ec7314cc0df3b4b04b5e2673d06844f7ea711d7df01fd51f4c3f32"
+https://vod-ak-amt.tv.apple.com/itunes-assets/VideoPreview128/v4/cf/05/ae/cf05ae93-35c8-16da-0e4b-2dba4738737c/P48791898_A1055157802_FF.p_video_gr280.m3u8
+
+#48791898 video moviePreviews external es (es-ES) ES Web Browser HD   
